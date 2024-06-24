@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hello, I am Veldin.
 
-<!--
-**VeldinS/VeldinS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 A little about me...
 
-Here are some ideas to get you started:
+I am a Full Stack & No Code Developer with 2+ years of experience building user-friendly websites and applications. I love combining the latest technologies with creative solutions to deliver exceptional digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ A Few Quick Notes
+
+*   🚀 Since 2022, I've been working as a Full Stack Developer.
+*   🌱 I'm currently sharpening my skills in Microservices.
+*   🔭 I'm excited about exploring AI integrations and development.
+
+       
+📫 Let's Connect!
+
+*   💼 LinkedIn: www.linkedin.com/in/veldin-salčinović-534294249
+*   📧 Email: contact@veldin.dev
+*   🌐 Portfolio: https://veldin.dev/
