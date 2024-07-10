@@ -2,7 +2,7 @@
 
 <h1>👋 Hello, I am Veldin.</h1>
 
-<h2>👩‍💻 A little about me...</h2>
+<h2>👦 A little about me...</h2>
 
 <p>I am a Full Stack & No Code Developer with 2+ years of experience building user-friendly websites and applications. I love combining the latest technologies with creative solutions to deliver exceptional digital experiences.</p>
 
